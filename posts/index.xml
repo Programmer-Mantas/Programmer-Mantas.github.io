@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mantas blog</title>
+    
+    
+    
+    <link>https://github.com/Programmer-Mantas/Programmer-Mantas.github.io/posts/</link>
+    <description>Recent content in Posts on Mantas blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 17:38:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://github.com/Programmer-Mantas/Programmer-Mantas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manto Hobiai</title>
+      <link>https://github.com/Programmer-Mantas/Programmer-Mantas.github.io/posts/manto-hobiai/</link>
+      <pubDate>Sat, 25 Nov 2023 17:38:29 +0200</pubDate>
+      
+      <guid>https://github.com/Programmer-Mantas/Programmer-Mantas.github.io/posts/manto-hobiai/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Laisvu laiku šoku &amp;ldquo;Vingis&amp;rdquo; - Vilnius tech tautinių šokių ansabmlyje Taip pat žaidžiu tinklinį: Salės Pliažo Trečia sporto šaka kuriai nemažai skiriu laiko - calistetika
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
